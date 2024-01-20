@@ -1,4 +1,5 @@
 *.bkp
 *.png
 *.drawio
+*.zip
 installer/*
