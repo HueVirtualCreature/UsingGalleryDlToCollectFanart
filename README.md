@@ -9,8 +9,10 @@ Run the installer, read carefully.
 
 # Usage
 After installation, if you have a twitter link in your clipboard, running ClipboardToGalleryDl.exe will automatically download the media of said post into the directory you specified during installation.
+
 The downloads will autmatically follow the format path/gallery-dl/twitter - username.
 It will download images, videos, and series of images.
+
 For more information about gallery-dl and its configuration options, visit here: https://github.com/mikf/gallery-dl
 
 # Hotkeys
